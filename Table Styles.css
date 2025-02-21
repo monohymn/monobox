@@ -1,0 +1,10 @@
+body { background: #000; color: #fff; font-family: monospace; }
+table { font-size: 3vw; margin-bottom: 50px; }
+td, th { padding: 20px; }
+tr td:first-child { white-space: nowrap; font-weight: bold; vertical-align: top; text-align: center; } 
+tr:nth-child(even) { background-color: #333333; }
+a { color: #fff; }
+th { text-align: left; color: #ffaa00; }
+.copper { color: #b87333; }
+.silver { color: #c0c0c0; }
+.gold { color: #ffd700; }
